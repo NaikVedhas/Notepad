@@ -10,15 +10,10 @@ import SignUp from './signup';
 import Login from './login';
 
 
-
-
-
-
-
 const config = createConfig(
   getDefaultConfig({
     // Required API Keys
-    alchemyId: process.env.INFURA_ID, // or infuraId
+    alchemyId: process.env.ALCHEMY_ID, // or infuraId
     walletConnectProjectId: process.env.WALLETCONNECT_PROJECT_ID,
 
     // Required
