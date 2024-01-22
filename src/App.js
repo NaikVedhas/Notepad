@@ -20,6 +20,7 @@ const config = createConfig(
     appName: "Notes 3.0",
 
     // Optional
+    chains: [sepolia],
     appDescription: "Your App Description",
     appUrl: "http://localhost:3000/", // your app's url
     appIcon: "https://family.co/logo.png", // your app's icon, no bigger than 1024x1024px (max. 1MB)
