@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Make sure the body covers the entire viewport height */
+    margin: 0; /* Remove default body margin */
+  }
+  
+  .flex-container {
+    display: flex;
+    justify-content: space-between;
+    /* Add any other styles you need for your container */
+  }
+  
