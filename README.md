@@ -31,9 +31,6 @@ elevate the user experience. One notable development involves incorporating Non-
 to uniquely tokenize and protect their visual content. Additionally, the integration of the InterPlanetary 
 File System (IPFS) server promises even greater efficiency in handling and storing diverse data types. 
 
-## In summary, Notes 3.0 stands as a beacon of security and innovation in the realm of note-taking 
-applications. By embracing blockchain technology, we embark on a journey to redefine the standards 
-of data protection, decentralization, and user control. As we continue to evolve, our commitment to 
-providing a secure, feature-rich, and future-proof note-taking experience remains unwavering. 
+## In summary, Notes 3.0 stands as a beacon of security and innovation in the realm of note-taking applications. By embracing blockchain technology, we embark on a journey to redefine the standards of data protection, decentralization, and user control. As we continue to evolve, our commitment to providing a secure, feature-rich, and future-proof note-taking experience remains unwavering. 
 
 
